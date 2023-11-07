@@ -5,4 +5,4 @@ This subsequent change demonstrates a simple spr change with amendment reviews.
 
 We should be demonstrating the git logs from these. 
 
-Adding further clarifying comments 
+Testing rebasing now and auto delete of branches.
