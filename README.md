@@ -8,3 +8,5 @@ We should be demonstrating the git logs from these.
 Testing rebasing now and auto delete of branches.
 
 This is another line 
+
+Adding yet another line
