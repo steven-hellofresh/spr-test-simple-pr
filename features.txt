@@ -1,3 +1,5 @@
 This is a features description file
 
-Feature A
+Feature A - High level description of A
+
+Feature B
